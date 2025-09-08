@@ -1,0 +1,2 @@
+// ERROR: Cannot POP into a string.
+POP "top"

@@ -1,0 +1,2 @@
+// Strings can have spaces inside of them.
+PRINT "This test has spaces"

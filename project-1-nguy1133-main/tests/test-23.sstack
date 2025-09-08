@@ -1,0 +1,4 @@
+// If CONCAT has only ONE argument, it should take its second from the stack.
+PUSH "12.34"
+CONCAT "-"  // Becomes "-12.34"
+PRINT

@@ -1,0 +1,16 @@
+// A longer case for CONCAT and SPLIT (partially from project example)
+PUSH "This is a "
+PUSH "sentence"
+CONCAT
+POP full
+PUSH full
+PRINT full
+SPLIT " "
+SPLIT " "
+SPLIT " "
+CONCAT " new "
+CONCAT
+PRINT  // Should print "a new sentence"
+CONCAT " "
+CONCAT
+PRINT  // Should print "This is"

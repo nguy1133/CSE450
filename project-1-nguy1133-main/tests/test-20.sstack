@@ -1,0 +1,4 @@
+// You should be able to use the same variable more than once in a print statement.
+PUSH '=>'
+POP arrow
+PRINT 'New' arrow "Crescent" arrow "Quarter" arrow "Gibbous"

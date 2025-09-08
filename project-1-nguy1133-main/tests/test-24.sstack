@@ -1,0 +1,5 @@
+// If CONCAT has NO arguments, take both from the stack (right first, then left)
+PUSH "Tick"
+PUSH "Tock"
+CONCAT      // Should merge into "TickTock", NOT "TockTick"
+PRINT

@@ -1,0 +1,7 @@
+// PUSH's can be intermixed with other commands.
+PUSH "1st"
+PUSH "2nd"
+PRINT
+PUSH "3rd"
+PRINT
+PRINT

@@ -1,0 +1,4 @@
+// Programs can have multiple print lines.
+PRINT "Monday"
+PRINT "Tuesday"
+PRINT "Wednesday"

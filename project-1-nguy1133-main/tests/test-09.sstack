@@ -1,0 +1,3 @@
+// One quote type can be used in a literal string with the other quote type.
+PRINT "This is a single quote: '"
+PRINT 'And this is a double quote: "'

@@ -1,0 +1,3 @@
+// ERROR: Other commands also cannot extract arguments from an empty stack.
+CONCAT
+PRINT

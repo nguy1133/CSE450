@@ -1,0 +1,3 @@
+// ERROR: Variable names may not begin with a number.
+PUSH "7Seas"
+POP 7seas

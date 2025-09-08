@@ -1,0 +1,12 @@
+// Here's a longer CONCAT series
+PUSH "Time"
+PUSH "Space"
+PUSH "Reality"
+PUSH "Power"
+POP s1
+CONCAT
+CONCAT s1
+POP s1
+POP s2
+CONCAT s1 s2
+PRINT

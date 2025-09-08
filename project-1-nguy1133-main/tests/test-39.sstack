@@ -1,0 +1,2 @@
+// ERROR: SPLIT cannot have more than two arguments.
+SPLIT "an" "Cannot split" " this many args at once"

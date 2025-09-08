@@ -1,0 +1,6 @@
+// You should be able to write to the same variable more than once.
+PUSH "Test 1"
+POP var1
+PUSH "Test TWO"
+POP var1
+PRINT var1

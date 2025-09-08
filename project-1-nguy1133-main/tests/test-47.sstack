@@ -1,0 +1,2 @@
+// ERROR: Unknown variable used in PRINT
+PRINT missing_var

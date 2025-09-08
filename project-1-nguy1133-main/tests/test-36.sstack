@@ -1,0 +1,2 @@
+// ERROR: POPping on an empty stack is not allowed
+POP nothing

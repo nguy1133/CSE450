@@ -1,0 +1,3 @@
+// The CONCAT command should join two arguments and push result onto the stack.
+CONCAT "Push>" "<Pull"
+PRINT

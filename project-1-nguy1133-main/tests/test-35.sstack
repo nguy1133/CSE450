@@ -1,0 +1,4 @@
+// ERROR: Cannot PUSH from an illegal variable
+PUSH "Value"
+POP my_var
+PUSH not_a_var

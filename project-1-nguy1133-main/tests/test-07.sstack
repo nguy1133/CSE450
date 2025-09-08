@@ -1,0 +1,3 @@
+// A PRINT statement can have multiple arguments.
+// (note also: testing multiple strings on the same line)
+PRINT "One" "Two" "Three" "Four"

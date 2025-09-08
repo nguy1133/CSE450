@@ -1,0 +1,2 @@
+// ERROR: Unknown command 'SET'
+SET my_str "MY_STRING"

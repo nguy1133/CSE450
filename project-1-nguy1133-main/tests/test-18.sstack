@@ -1,0 +1,10 @@
+// A bunch of PUSHes and POPs (from example in project 1 description).
+PUSH "FIRST"
+PUSH "next"
+POP var1
+PUSH 'March'
+PUSH '4th'
+POP day
+POP month
+PUSH day
+PRINT var1 " " month " " day

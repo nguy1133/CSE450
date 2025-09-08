@@ -1,0 +1,2 @@
+// ERROR: PUSH can have only one argument.
+PUSH "123" "abc"

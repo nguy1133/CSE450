@@ -1,0 +1,9 @@
+// Make sure that blank lines are allowed with extra whitespace.
+
+PRINT    "GAP"
+  
+   PRINT "SKIP"   
+ PRINT "SPACE"
+PRINT "NORMAL?"
+
+    // And we're done!

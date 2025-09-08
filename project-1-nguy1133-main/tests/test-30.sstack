@@ -1,0 +1,5 @@
+// If the delimiter is not in the pattern, SPLIT pushes the original string
+// and then an empty string onto the stack.
+SPLIT "delim" "This is a pattern that won't be split"
+PRINT // Print a blank line due to the empty string.
+PRINT // Now print "This is a pattern that won't be split".

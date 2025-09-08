@@ -1,0 +1,2 @@
+// ERROR: PUSH does not have a default argument.
+PUSH

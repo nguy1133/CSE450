@@ -1,0 +1,2 @@
+// ERROR: Strings must have matching quote types in either direction.
+PRINT "Quote Error'

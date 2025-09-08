@@ -1,0 +1,6 @@
+// Values should persist in variables
+PUSH "Repeat"
+POP mesg
+PRINT mesg
+PRINT mesg
+PRINT mesg

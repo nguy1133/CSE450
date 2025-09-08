@@ -1,0 +1,2 @@
+// Strings can also be made with single quotes, not just double
+PRINT 'TestOutput2'

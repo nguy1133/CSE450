@@ -1,0 +1,4 @@
+// We should be able to POP off the stack into a variable as well.
+PUSH "Bounce!"
+POP action
+PRINT action

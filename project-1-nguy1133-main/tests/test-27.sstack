@@ -1,0 +1,4 @@
+// Make sure a simple SPLIT works (from project example)
+SPLIT "at" "Foundation"
+PRINT
+PRINT

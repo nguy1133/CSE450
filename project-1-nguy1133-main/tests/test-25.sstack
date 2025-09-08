@@ -1,0 +1,5 @@
+// CONCAT should work with variables as well.
+PUSH "C"
+POP lang
+CONCAT lang "++"
+PRINT

@@ -1,0 +1,2 @@
+// ERROR: CONCAT cannot have more than two arguments.
+CONCAT "Too many" " args " "to concatenate"

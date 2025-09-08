@@ -1,0 +1,6 @@
+// SPLIT should work when the second argument is on the stack.
+// Also: // should be allowed inside of strings.
+PUSH "http://www.cse.msu.edu/~cse450/"
+SPLIT "//"
+PRINT
+PRINT

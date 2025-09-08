@@ -1,0 +1,3 @@
+// PRINT should use stack values as a default argument.
+PUSH "Default"
+PRINT

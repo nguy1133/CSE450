@@ -1,0 +1,3 @@
+// ERROR: POP can have only one argument.
+PUSH "helper..."
+POP abc def

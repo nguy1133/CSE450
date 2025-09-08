@@ -1,0 +1,2 @@
+// Try printing a single string to the screen
+PRINT "TestOutput"

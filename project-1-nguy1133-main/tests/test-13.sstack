@@ -1,0 +1,6 @@
+// If multiple items are on the stack, only the top one is printed each time.
+PUSH "1st"
+PUSH "2nd"
+PUSH "3rd"
+PRINT
+PRINT

@@ -1,0 +1,2 @@
+// ERROR: Cannot print an invalid string!
+PRINT "This string does not close!

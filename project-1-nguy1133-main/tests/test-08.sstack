@@ -1,0 +1,2 @@
+// Multiple string arguments could use different types of quotes.
+PRINT "Five" 'Six' 'Seven' "Eight"

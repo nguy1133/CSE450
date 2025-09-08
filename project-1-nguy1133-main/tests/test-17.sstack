@@ -1,0 +1,4 @@
+// Variables should be printable alongside other values.
+PUSH "42"
+POP value
+PRINT "The variable 'value' is set to be " value

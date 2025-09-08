@@ -1,0 +1,2 @@
+// ERROR: POP does not have a default argument.
+POP
